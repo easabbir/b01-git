@@ -1,1 +1,3 @@
 This part of the software is controlling the heart of the software
+
+This is the second feature, which is also very important
