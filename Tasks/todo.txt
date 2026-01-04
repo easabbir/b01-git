@@ -1,0 +1,6 @@
+1. Readme File
+2. Ignore File
+3. Branching 
+4. collaborator 
+5. Good practice
+6. profile generator
